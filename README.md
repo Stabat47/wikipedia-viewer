@@ -20,7 +20,7 @@ Users can search Wikipedia articles, view results instantly, or open a random ar
 
 ## 🖥️ Demo
 
-👉 **Live Demo:** [View on Vercel](#) 
+👉 **Live Demo:** [View on Vercel](https://wikipedia-viewer-psi.vercel.app/) 
 
 ---
 
@@ -71,13 +71,12 @@ Open [http:/oca/llhost:5173](http:/oca/llhost:5173)
 ---
 ## 📖 How to Use
 
-- Enter a keyword into the search bar (e.g., **React**, **NASA**).
+- Enter a keyword into the search bar (e.g., **React**, **freeCodeCamp**).
 - Click **Search** or press **Enter** to see related Wikipedia articles.
 - Click on an article title to open it in a new tab.
 - Or click **Random** to explore a random Wikipedia page.
 
----
-
+-
 ## 🖌️ Responsive Design
 
 ✅ Mobile-friendly layout  
