@@ -54,7 +54,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/wiki.git
+git clone https://github.com/Stabat47/wikipedia-viewer/tree/main.git
 
 # 2. Navigate to the project folder
 cd wiki
